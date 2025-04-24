@@ -9,7 +9,7 @@ export default function Projects() {
     {
       title: "Diabetes Prediction ML Model",
       description: "A machine learning model that predicts diabetes risk using SVM and Logistic Regression algorithms.",
-      image: "/diabetics.webp?height=400&width=600",
+      image: "/diabetes.jpg?height=400&width=600",
       tags: ["Python", "Machine Learning", "SVM", "Logistic Regression"],
       github: "#",
       demo: "#",
